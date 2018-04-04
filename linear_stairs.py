@@ -1,8 +1,6 @@
-__author__ = "Maitri Vaghela"
 """
 file: linear_stairs.py
 language: python3
-author: msv2210
 description: To draw linear stairway
 """
 
